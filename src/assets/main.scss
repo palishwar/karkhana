@@ -1,0 +1,46 @@
+.card{
+    width:250px;
+    border: 1px solid red;
+    .image{
+       img{
+        width: 100%;
+       }
+    }
+    text-align: center;
+    button{
+    border-style: none;
+    margin:5px 50px;
+    border-radius: 10px;
+
+    
+    }
+    a{
+        text-decoration: none;
+    }
+}
+.col-12{
+    text-align: center;
+    margin: 30px;
+    
+}
+.col-6{
+    line-height: 28px;
+}
+.icon{
+    display: flex;
+    gap: 10px;
+    font-size: 17px;
+}
+a{
+    text-decoration: none;
+}
+.text-bg-secondary{
+    a{
+        text-decoration: none;
+        color: aliceblue;
+
+    }
+}
+.footer{
+    margin-top: 50px;
+}
